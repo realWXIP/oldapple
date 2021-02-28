@@ -1,0 +1,28 @@
+worlds:
+  world: # WORLD NAME
+    effects:
+      FIRE_RESISTANCE: # EFFECT (AVAILABLE VALUES ARE WRITTEN BELOW!!)
+        time: 500 # MUST BE IN SECONDS!!
+        level: 3 # EFFECT STRENGTH
+  world_nether:
+    effects:
+      INCREASE_DAMAGE:
+        time: 400
+        level: 2
+
+
+# Below are listed the ONLY allowed enchantment types (names). They must be cAse-SeNsItIvE!
+#
+# --------------------------------------------------------
+#
+#   ABSORPTION, BLINDNESS, CONFUSION, DAMAGE_RESISTANCE
+#   FAST_DIGGING, FIRE_RESISTANCE ,GLOWING, HARM
+#   HEAL, HEALTH_BOOST, HUNGER, INCREASE_DAMAGE
+#   INVISIBILITY, JUMP, LEVITATION, LUCK
+#   NIGHT_VISION, POISON, REGENERATION, SATURATION
+#   SLOW, SLOW_DIGGING, SPEED, UNLUCK
+#   WATER_BREATHING, WEAKNESS, WITHER
+#
+# --------------------------------------------------------
+#
+# Made by: wxip#3544

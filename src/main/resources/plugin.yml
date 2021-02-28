@@ -1,0 +1,6 @@
+main: eu.adventurelands.oldapple.Main
+name: OldApple
+author: wxip
+version: 1.0
+commands:
+  oldapple:
